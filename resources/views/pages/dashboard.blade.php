@@ -338,7 +338,7 @@
                                             <td>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3" style="width: 35px"
-                                                        src="assets/images/user/avatar-1.svg" alt="user">
+                                                        src="{{ asset('assets/images/user/avatar-1.svg') }}" alt="user">
                                                     <div>
                                                         <h6 class="mb-0">Sarah Johnson</h6>
                                                         <span class="text-muted f-12">sarah@example.com</span>
@@ -383,7 +383,7 @@
                                             <td>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3" style="width: 35px"
-                                                        src="assets/images/user/avatar-2.svg" alt="user">
+                                                        src="{{ asset('assets/images/user/avatar-2.svg') }}" alt="user">
                                                     <div>
                                                         <h6 class="mb-0">Michael Chen</h6>
                                                         <span class="text-muted f-12">michael@example.com</span>
@@ -428,7 +428,7 @@
                                             <td>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3" style="width: 35px"
-                                                        src="assets/images/user/avatar-3.svg" alt="user">
+                                                        src="{{ asset('assets/images/user/avatar-3.svg') }}" alt="user">
                                                     <div>
                                                         <h6 class="mb-0">Emma Wilson</h6>
                                                         <span class="text-muted f-12">emma@example.com</span>
@@ -473,7 +473,7 @@
                                             <td>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3" style="width: 35px"
-                                                        src="assets/images/user/avatar-4.svg" alt="user">
+                                                        src="{{ asset('assets/images/user/avatar-4.svg') }}" alt="user">
                                                     <div>
                                                         <h6 class="mb-0">Alex Rodriguez</h6>
                                                         <span class="text-muted f-12">alex@example.com</span>
@@ -518,7 +518,7 @@
                                             <td>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3" style="width: 35px"
-                                                        src="assets/images/user/avatar-5.svg" alt="user">
+                                                        src="{{ asset('assets/images/user/avatar-5.svg') }}" alt="user">
                                                     <div>
                                                         <h6 class="mb-0">Maria Garcia</h6>
                                                         <span class="text-muted f-12">maria@example.com</span>
@@ -563,7 +563,7 @@
                                             <td>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3" style="width: 35px"
-                                                        src="assets/images/user/avatar-6.svg" alt="user">
+                                                        src="{{ asset('assets/images/user/avatar-6.svg') }}" alt="user">
                                                     <div>
                                                         <h6 class="mb-0">David Kim</h6>
                                                         <span class="text-muted f-12">david@example.com</span>
@@ -608,7 +608,7 @@
                                             <td>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3" style="width: 35px"
-                                                        src="assets/images/user/avatar-7.svg" alt="user">
+                                                        src="{{ asset('assets/images/user/avatar-7.svg') }}" alt="user">
                                                     <div>
                                                         <h6 class="mb-0">Lisa Thompson</h6>
                                                         <span class="text-muted f-12">lisa@example.com</span>

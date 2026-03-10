@@ -81,30 +81,29 @@
 
     <!-- [Page Specific JS] start -->
     <!-- apexcharts js -->
-    <script src="assets/js/plugins/apexcharts.min.js"></script>
+    <script src="{{ asset('assets/js/plugins/apexcharts.min.js') }}"></script>
 
     <!-- Vector maps -->
-    <script src="assets/js/plugins/jsvectormap.min.js"></script>
-    <script src="assets/js/plugins/world.js"></script>
+    <script src="{{ asset('assets/js/plugins/jsvectormap.min.js') }}"></script>
+    <script src="{{ asset('assets/js/plugins/world.js') }}"></script>
 
     <!-- Enhanced Dashboard Widgets -->
-    <script src="assets/js/widgets/world-low.js"></script>
-    <script src="assets/js/widgets/device-chart.js"></script>
-    <script src="assets/js/widgets/happy-sad-ball.js"></script>
-    
+    <script src="{{ asset('assets/js/widgets/world-low.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/device-chart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/happy-sad-ball.js') }}"></script>
+
     <!-- CRM -->
-    <script src="assets/js/widgets/transactions.js"></script>
-    <script src="assets/js/widgets/bar-chart.js"></script>
-    <script src="assets/js/widgets/call-chart.js"></script>
-    <script src="assets/js/widgets/app-sales.js"></script>
+    <script src="{{ asset('assets/js/widgets/transactions.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/bar-chart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/call-chart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/app-sales.js') }}"></script>
 
     <!-- Analytics -->
-    <script src="assets/js/widgets/stack-age.js"></script>
-    <script src="assets/js/widgets/bar-chart2.js"></script>
-    <script src="assets/js/widgets/statistics-sale.js"></script>
-    <script src="assets/js/widgets/transactions1-2.js"></script>
-    <script src="assets/js/widgets/transactions3.js"></script>
-
+    <script src="{{ asset('assets/js/widgets/stack-age.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/bar-chart2.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/statistics-sale.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/transactions1-2.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/transactions3.js') }}"></script>
 
     <!-- Custom Enhanced Dashboard JS -->
     <script>

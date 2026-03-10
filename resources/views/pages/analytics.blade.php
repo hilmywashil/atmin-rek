@@ -120,11 +120,11 @@
                 <div class="col-md-12 col-xl-4">
                     <div class="card bg-brand-color-1 visitor">
                         <div class="card-body text-center">
-                            <img class="img-female" src="../assets/images/widget/user-1.png" alt="visitor-user" />
+                            <img class="img-female" src="{{ asset('assets/images/widget/user-1.png') }}" alt="visitor-user" />
                             <h5 class="text-white m-0">TOTAL VISITORS</h5>
                             <h3 class="text-white m-t-20 f-w-300">235</h3>
                             <span class="text-white">20% More than last Month</span>
-                            <img class="img-men" src="../assets/images/widget/user-2.png" alt="visitor-user" />
+                            <img class="img-men" src="{{ asset('assets/images/widget/user-2.png') }}" alt="visitor-user" />
                         </div>
                     </div>
                     <div class="card">

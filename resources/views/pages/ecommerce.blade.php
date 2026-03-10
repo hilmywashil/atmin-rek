@@ -192,7 +192,7 @@
                         <div class="card-body">
                             <div class="row align-items-center justify-content-center">
                                 <div class="col-auto">
-                                    <img src="../assets/images/widget/shape5.png" alt="activity-user" />
+                                    <img src="{{ asset('assets/images/widget/shape5.png') }}" alt="activity-user" />
                                 </div>
                                 <div class="col">
                                     <h2 class="text-white f-w-300">375</h2>

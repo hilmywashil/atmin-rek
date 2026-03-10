@@ -130,7 +130,7 @@
                                     <tbody>
                                         <tr class="unread">
                                             <td><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-1.svg" alt="activity-user" /></td>
+                                                    src="{{ asset('assets/images/user/avatar-1.svg') }}" alt="activity-user" /></td>
                                             <td>
                                                 <h6 class="mb-1">Isabella Christensen</h6>
                                                 <p class="m-0">Lorem Ipsum is simply dummy text of…</p>
@@ -147,7 +147,7 @@
                                         </tr>
                                         <tr class="unread">
                                             <td><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-2.svg" alt="activity-user" /></td>
+                                                    src="{{ asset('assets/images/user/avatar-2.svg') }}" alt="activity-user" /></td>
                                             <td>
                                                 <h6 class="mb-1">Mathilde Andersen</h6>
                                                 <p class="m-0">Lorem Ipsum is simply dummy text of…</p>
@@ -164,7 +164,7 @@
                                         </tr>
                                         <tr class="unread">
                                             <td><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-3.svg" alt="activity-user" /></td>
+                                                    src="{{ asset('assets/images/user/avatar-3.svg') }}" alt="activity-user" /></td>
                                             <td>
                                                 <h6 class="mb-1">Karla Sorensen</h6>
                                                 <p class="m-0">Lorem Ipsum is simply dummy text of…</p>
@@ -181,7 +181,7 @@
                                         </tr>
                                         <tr class="unread">
                                             <td><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-1.svg" alt="activity-user" /></td>
+                                                    src="{{ asset('assets/images/user/avatar-1.svg') }}" alt="activity-user" /></td>
                                             <td>
                                                 <h6 class="mb-1">Ida Jorgensen</h6>
                                                 <p class="m-0">Lorem Ipsum is simply dummy text of…</p>
@@ -229,7 +229,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-1.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-1.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Silje Larsen</h6>
@@ -240,7 +240,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-2.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-2.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Julie Vad</h6>
@@ -251,7 +251,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-3.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-3.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Storm Hanse</h6>
@@ -262,7 +262,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-1.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-1.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Frida Thomse</h6>
@@ -273,7 +273,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-15">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-2.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-2.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Silje Larsen</h6>
@@ -286,7 +286,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-1.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-1.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Silje Larsen</h6>
@@ -297,7 +297,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-2.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-2.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Julie Vad</h6>
@@ -308,7 +308,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-3.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-3.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Storm Hanse</h6>
@@ -319,7 +319,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-1.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-1.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Frida Thomse</h6>
@@ -330,7 +330,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-15">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-2.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-2.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Silje Larsen</h6>
@@ -343,7 +343,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-1.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-1.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Silje Larsen</h6>
@@ -354,7 +354,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-2.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-2.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Julie Vad</h6>
@@ -365,7 +365,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-3.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-3.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Storm Hanse</h6>
@@ -376,7 +376,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-20">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-1.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-1.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Frida Thomse</h6>
@@ -387,7 +387,7 @@
                                     <div class="d-flex friendlist-box align-items-center justify-content-center m-b-15">
                                         <div class="flex-shrink-0">
                                             <a href="#!"><img class="rounded-circle" style="width: 40px"
-                                                    src="../assets/images/user/avatar-2.svg" alt="activity-user" /></a>
+                                                    src="{{ asset('assets/images/user/avatar-2.svg') }}" alt="activity-user" /></a>
                                         </div>
                                         <div class="flex-grow-1 ms-3">
                                             <h6 class="m-0 d-inline">Silje Larsen</h6>

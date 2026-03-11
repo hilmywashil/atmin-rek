@@ -124,9 +124,16 @@
     <script src="{{ asset('assets/js/widgets/bar-chart1.js') }}"></script>
     <script src="{{ asset('assets/js/widgets/chart-percent.js') }}"></script>
 
+    <!-- Widget Statistic -->
+    <script src="{{ asset('assets/js/widgets/sale-view.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/sale-view-second.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/sale-view-third.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/user-sale-1.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/user-sale2-3.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/user-sale4-5.js') }}"></script>
+
     <!-- Custom Enhanced Dashboard JS -->
     <script>
-        // Enhanced KPI Cards with mini charts
         const kpiCharts = {
             totalRevenue: {
                 chart: {
@@ -462,6 +469,8 @@
         }
         // ]]>
     </script>
+    @stack('script')
+
 </body>
 <!-- [Body] end -->
 

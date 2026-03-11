@@ -68,9 +68,9 @@
                         <span class="pc-arrow"><i class="ti ti-chevron-right"></i></span>
                     </a>
                     <ul class="pc-submenu">
-                        <li class="pc-item"><a class="pc-link" href="./widget/w_statistics.html"
+                        <li class="pc-item"><a class="pc-link" href="{{ route('w_statistics') }}"
                                 data-i18n="Statistics">Statistic</a></li>
-                        <li class="pc-item"><a class="pc-link" href="./widget/w_data.html" data-i18n="Data">Data</a>
+                        <li class="pc-item"><a class="pc-link" href="{{ route('w_data') }}" data-i18n="Data">Data</a>
                         </li>
                         <li class="pc-item"><a class="pc-link" href="./widget/w_table.html" data-i18n="Tables">Table</a>
                         </li>

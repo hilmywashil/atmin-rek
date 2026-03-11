@@ -38,7 +38,7 @@
                                 data-i18n="Project">Project</a></li>
                     </ul>
                 </li>
-                <li class="pc-item pc-hasmenu">
+                <!-- <li class="pc-item pc-hasmenu">
                     <a href="#!" class="pc-link">
                         <span class="pc-micon">
                             <i class="ph ph-layout"></i>
@@ -58,7 +58,7 @@
                         <li class="pc-item"><a class="pc-link" href="./demo/layout-3.html" data-i18n="Layouts 3">Layouts
                                 3</a></li>
                     </ul>
-                </li>
+                </li> -->
                 <li class="pc-item pc-hasmenu">
                     <a href="#!" class="pc-link">
                         <span class="pc-micon">
@@ -72,11 +72,11 @@
                                 data-i18n="Statistics">Statistic</a></li>
                         <li class="pc-item"><a class="pc-link" href="{{ route('w_data') }}" data-i18n="Data">Data</a>
                         </li>
-                        <li class="pc-item"><a class="pc-link" href="./widget/w_table.html" data-i18n="Tables">Table</a>
+                        <li class="pc-item"><a class="pc-link" href="{{ route('w_table') }}" data-i18n="Tables">Table</a>
                         </li>
-                        <li class="pc-item"><a class="pc-link" href="./widget/w_user.html" data-i18n="User">User</a>
+                        <li class="pc-item"><a class="pc-link" href="{{ route('w_user') }}" data-i18n="User">User</a>
                         </li>
-                        <li class="pc-item"><a class="pc-link" href="./widget/w_chart.html" data-i18n="Chart">Chart</a>
+                        <li class="pc-item"><a class="pc-link" href="{{ route('w_chart') }}" data-i18n="Chart">Chart</a>
                         </li>
                     </ul>
                 </li>

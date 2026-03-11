@@ -17,4 +17,7 @@ Route::prefix('dashboard')->group(function () {
 Route::prefix('widget')->group(function () {
     Route::view('/w_statistics', 'pages.widget.w_statistics')->name('w_statistics');
     Route::view('/w_data', 'pages.widget.w_data')->name('w_data');
+    Route::view('/w_table', 'pages.widget.w_table')->name('w_table');
+    Route::view('/w_user', 'pages.widget.w_user')->name('w_user');
+    Route::view('/w_chart', 'pages.widget.w_chart')->name('w_chart');
 });

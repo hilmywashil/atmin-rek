@@ -90,8 +90,6 @@
     <!-- Enhanced Dashboard Widgets -->
     <script src="{{ asset('assets/js/widgets/bar-chart3.js') }}"></script>
     <script src="{{ asset('assets/js/widgets/Widget-line-chart1.js') }}"></script>
-
-    <!-- Enhanced Dashboard Widgets -->
     <script src="{{ asset('assets/js/widgets/world-low.js') }}"></script>
     <script src="{{ asset('assets/js/widgets/device-chart.js') }}"></script>
     <script src="{{ asset('assets/js/widgets/happy-sad-ball.js') }}"></script>
@@ -132,6 +130,24 @@
     <script src="{{ asset('assets/js/widgets/user-sale2-3.js') }}"></script>
     <script src="{{ asset('assets/js/widgets/user-sale4-5.js') }}"></script>
 
+    <!-- Widget Chart (unique only) -->
+    <script src="{{ asset('assets/js/widgets/command-card-chart1.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/chart-sale.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/Stack-bar.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/Chartline.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/line-chart1.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/line-chart2.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/Widget-line-chart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/chart-percent1.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/processed-bar.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/chart-statistics.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/chart-activity.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/sales-render.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/webchart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/Statistics-line.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/sitevisite-chart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/power-card-chart.js') }}"></script>
+    
     <!-- Custom Enhanced Dashboard JS -->
     <script>
         const kpiCharts = {

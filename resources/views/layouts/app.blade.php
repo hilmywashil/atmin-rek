@@ -88,6 +88,10 @@
     <script src="{{ asset('assets/js/plugins/world.js') }}"></script>
 
     <!-- Enhanced Dashboard Widgets -->
+    <script src="{{ asset('assets/js/widgets/bar-chart3.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/Widget-line-chart1.js') }}"></script>
+
+    <!-- Enhanced Dashboard Widgets -->
     <script src="{{ asset('assets/js/widgets/world-low.js') }}"></script>
     <script src="{{ asset('assets/js/widgets/device-chart.js') }}"></script>
     <script src="{{ asset('assets/js/widgets/happy-sad-ball.js') }}"></script>
@@ -104,6 +108,21 @@
     <script src="{{ asset('assets/js/widgets/statistics-sale.js') }}"></script>
     <script src="{{ asset('assets/js/widgets/transactions1-2.js') }}"></script>
     <script src="{{ asset('assets/js/widgets/transactions3.js') }}"></script>
+
+    <!-- Crypto -->
+    <script src="{{ asset('assets/js/widgets/line-area2.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/Earnings-chart.js') }}"></script>
+
+    <!-- Finance -->
+    <script src="{{ asset('assets/js/widgets/total-line-1-chart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/total-line-2-chart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/total-line-3-chart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/cashflow-bar-chart.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/category-donut-chart.js') }}"></script>
+
+    <!-- Project -->
+    <script src="{{ asset('assets/js/widgets/bar-chart1.js') }}"></script>
+    <script src="{{ asset('assets/js/widgets/chart-percent.js') }}"></script>
 
     <!-- Custom Enhanced Dashboard JS -->
     <script>

@@ -30,11 +30,11 @@
                         </li>
                         <li class="pc-item"><a class="pc-link" href="{{ route('analytics') }}"
                                 data-i18n="Analytics">Analytics</a></li>
-                        <li class="pc-item"><a class="pc-link" href="./dashboard/crypto.html"
+                        <li class="pc-item"><a class="pc-link" href="{{ route('crypto') }}"
                                 data-i18n="Crypto">Crypto</a></li>
-                        <li class="pc-item"><a class="pc-link" href="./dashboard/finance.html"
+                        <li class="pc-item"><a class="pc-link" href="{{ route('finance') }}"
                                 data-i18n="Finance">Finance</a></li>
-                        <li class="pc-item"><a class="pc-link" href="./dashboard/project.html"
+                        <li class="pc-item"><a class="pc-link" href="{{ route('project') }}"
                                 data-i18n="Project">Project</a></li>
                     </ul>
                 </li>
